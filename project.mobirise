@@ -46,7 +46,7 @@
     "imageResize": true,
     "screenshot": "screenshot.png",
     "favicon": false,
-    "mbrsiteDomain": false,
+    "mbrsiteDomain": "ptce2kmjjf",
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": false,
