@@ -1243,6 +1243,9 @@ a {
 .cid-squIOake6N foot-menu-item {
   text-align: right;
 }
+.cid-squIOake6N .media-container-row .mbr-text {
+  color: #232323;
+}
 .cid-squJtkiKRl {
   z-index: 1000;
   width: 100%;
@@ -1676,4 +1679,7 @@ a {
 }
 .cid-squIOake6N foot-menu-item {
   text-align: right;
+}
+.cid-squIOake6N .media-container-row .mbr-text {
+  color: #232323;
 }
