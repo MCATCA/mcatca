@@ -9,19 +9,19 @@ body {
 }
 .display-1 {
   font-family: 'Jost', sans-serif;
-  font-size: 4.6rem;
+  font-size: 5.2rem;
   line-height: 1.1;
 }
 .display-1 > .mbr-iconfont {
-  font-size: 5.75rem;
+  font-size: 6.5rem;
 }
 .display-2 {
   font-family: 'Jost', sans-serif;
-  font-size: 3rem;
+  font-size: 4.8rem;
   line-height: 1.1;
 }
 .display-2 > .mbr-iconfont {
-  font-size: 3.75rem;
+  font-size: 6rem;
 }
 .display-4 {
   font-family: 'Jost', sans-serif;
@@ -54,19 +54,19 @@ body {
 /* 0.65 - min scale variable, may vary */
 @media (max-width: 992px) {
   .display-1 {
-    font-size: 3.68rem;
+    font-size: 4.16rem;
   }
 }
 @media (max-width: 768px) {
   .display-1 {
-    font-size: 3.22rem;
-    font-size: calc( 2.26rem + (4.6 - 2.26) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.1 * (2.26rem + (4.6 - 2.26) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 3.64rem;
+    font-size: calc( 2.4699999999999998rem + (5.2 - 2.4699999999999998) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.1 * (2.4699999999999998rem + (5.2 - 2.4699999999999998) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-2 {
-    font-size: 2.4rem;
-    font-size: calc( 1.7rem + (3 - 1.7) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.3 * (1.7rem + (3 - 1.7) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 3.84rem;
+    font-size: calc( 2.33rem + (4.8 - 2.33) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.3 * (2.33rem + (4.8 - 2.33) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-4 {
     font-size: 0.88rem;
@@ -819,7 +819,7 @@ a {
 }
 @media (min-width: 992px) {
   .cid-squJtkiKRl .navbar.collapsed.opened:not(.navbar-short) .navbar-collapse {
-    max-height: calc(98.5vh - 3.6rem);
+    max-height: calc(98.5vh - 3.4rem);
   }
 }
 .cid-squJtkiKRl .navbar.collapsed .dropdown-menu .dropdown-submenu {
@@ -1377,7 +1377,7 @@ a {
 }
 @media (min-width: 992px) {
   .cid-squJtkiKRl .navbar.collapsed.opened:not(.navbar-short) .navbar-collapse {
-    max-height: calc(98.5vh - 3.6rem);
+    max-height: calc(98.5vh - 3.4rem);
   }
 }
 .cid-squJtkiKRl .navbar.collapsed .dropdown-menu .dropdown-submenu {
