@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "جمعية لقاء الحضارات",
-    "currentPage": "index.html",
+    "currentPage": "page1.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -46,11 +46,11 @@
     "imageResize": true,
     "screenshot": "screenshot.png",
     "favicon": false,
-    "mbrsiteDomain": "h1ajxekypr",
+    "mbrsiteDomain": "fbsv6yb5xp",
     "robotsSwitcher": false,
-    "sitemapSwitcher": true,
+    "sitemapSwitcher": false,
     "sitemapSwitcherAuto": "on",
-    "siteUrl": "https://mcatca.github.io/mcatca/sitemap.xml",
+    "siteUrl": false,
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
     "cookiesAlert": false,
     "gdpr": false,
