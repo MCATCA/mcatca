@@ -752,7 +752,7 @@ a {
   margin: auto;
 }
 .cid-squJtkiKRl .iconfont-wrapper {
-  color: #000000 !important;
+  color: #22a5e5 !important;
   font-size: 1.5rem;
   padding-right: 0.5rem;
 }
@@ -1302,7 +1302,7 @@ a {
   margin: auto;
 }
 .cid-squJtkiKRl .iconfont-wrapper {
-  color: #000000 !important;
+  color: #22a5e5 !important;
   font-size: 1.5rem;
   padding-right: 0.5rem;
 }
@@ -1369,7 +1369,7 @@ a {
 }
 @media (min-width: 992px) {
   .cid-squJtkiKRl .navbar.collapsed.opened:not(.navbar-short) .navbar-collapse {
-    max-height: calc(98.5vh - 3rem);
+    max-height: calc(98.5vh - 5.2rem);
   }
 }
 .cid-squJtkiKRl .navbar.collapsed .dropdown-menu .dropdown-submenu {
